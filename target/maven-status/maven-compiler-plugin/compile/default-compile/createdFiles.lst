@@ -1,0 +1,5 @@
+com\aisc\angular\search\model\AbstractAuditingEntity.class
+com\aisc\angular\search\model\Employee.class
+com\aisc\angular\search\AngularSearchWithCriteriaAP.class
+com\aisc\angular\search\model\EmployeeProjectView.class
+com\aisc\angular\search\model\Project.class
