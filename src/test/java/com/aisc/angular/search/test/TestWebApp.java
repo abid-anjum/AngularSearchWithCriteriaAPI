@@ -38,10 +38,10 @@ public class TestWebApp extends ApplicationTests {
 	    	{
             LOGGER.error("Start Insert new row in project table");
             
-	    	project.setId(7l);
-	    	project.setName("ABC");
-	    	project.setLocation("Riyadh");
-	    	projectRepository.save(project);
+			/*
+			 * project.setId(7l); project.setName("ABC"); project.setLocation("Riyadh");
+			 * projectRepository.save(project);
+			 */
 	    	
 	        //assertEquals(project.getCreatedBy(),"Mr. Abid"); 
     	}
